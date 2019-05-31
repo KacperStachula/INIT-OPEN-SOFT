@@ -6,7 +6,7 @@
 <li><strong>APRS Tracker</strong> - 432.500MHz <strong> CALLSING:SP1ZZW-15</strong> - </li>
 <li><strong>CW</strong> - 432.600MHz <strong> CALLSING:SP1ZZW WPM:10</strong> - </li>
 <li><strong>ATV</strong> - 5685.000MHz <strong><a href="https://www.youtube.com/watch?v=wSgRTd0zFaU">LiveStream</a></strong></li>
-<li><strong>DOWNLINK GFSK</strong> - 000.000MHz <strong><a href="https://github.com/KacperStachula/INIT-OPEN-SOFT"> RX TOOL</a>  Disabled</strong></li>
+<li><strong>DOWNLINK GFSK 236000bps</strong> - 438.045MHz <strong><a href="https://github.com/KacperStachula/INIT-OPEN-SOFT"> RX TOOL</a>  Disabled</strong></li>
 </menu>
 <br/>
 <br/>
